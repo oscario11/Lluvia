@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/halloween-ends-tra-iler-1664193816.jpeg?crop=1xw:1xh;center,top&resize=980:*);
+    background-repeat: no-repeat;background-size: 2000px;
+}
+p{
+    font-size: 50px;color: silver;background-color: slateblue;
+}
+
+h3{
+    font-size: 50px;color: greenyellow;background-color: gainsboro;
+}
+h4{
+    font-size: 50px;color: wheat;background-color: rgb(81, 107, 98);
+}
